@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "aws_docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krushna08/nodeapp.git"
+  },
+  "author": "Krushna Bairagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krushna08/nodeapp/issues"
+  },
+  "homepage": "https://github.com/krushna08/nodeapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
